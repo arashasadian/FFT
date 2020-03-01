@@ -1,0 +1,744 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/arash/Desktop/University/TA/Arch/Quartus Tutorial/ff
+Eadder
+Z0 w1582564054
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 17 float_generic_pkg 0 22 H9F2dgFW`hn13SQYDoo_R2
+Z3 DPx4 ieee 9 float_pkg 0 22 Z81QOO3@T3iYBM^RlCZFZ1
+Z4 DPx4 ieee 17 fixed_generic_pkg 0 22 `=cI_4Mf07Y0RE[dTgE=F2
+Z5 DPx4 ieee 9 fixed_pkg 0 22 6nURH]dUY5@T6S0eLDXJe2
+Z6 DPx4 ieee 17 fixed_float_types 0 22 JoVc:0L4XeXcaE?c:FVe62
+Z7 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z8 DPx4 work 7 assests 0 22 BXiihXX[72`2dlHZ<WR9F1
+Z9 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z10 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z11 d/home/arash/Desktop/Project/FFT
+Z12 8/home/arash/Desktop/Project/FFT/ADDER.vhd
+Z13 F/home/arash/Desktop/Project/FFT/ADDER.vhd
+l0
+L10
+VW:OH;h>`@cfk^m1SZRNIS2
+!s100 5F7jk5]lj[IPz_2YUUnJn1
+Z14 OV;C;10.5b;63
+32
+Z15 !s110 1582730374
+!i10b 1
+Z16 !s108 1582730374.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/ADDER.vhd|
+Z18 !s107 /home/arash/Desktop/Project/FFT/ADDER.vhd|
+!i113 1
+Z19 o-work work -2002 -explicit
+Z20 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 5 adder 0 22 W:OH;h>`@cfk^m1SZRNIS2
+l21
+L20
+V9XGk1Kgi_L^obVPcRoLzC3
+!s100 fFPHW;42;BOl5<Yd:YcjJ0
+R14
+32
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Eadder512
+Z21 w1582729780
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z22 8/home/arash/Desktop/Project/FFT/ADDER512.vhd
+Z23 F/home/arash/Desktop/Project/FFT/ADDER512.vhd
+l0
+L9
+Vh7iMj?eQ[ANTR_3Z4j:Sf2
+!s100 JHD`o4dl4^bF=<JbL6eS51
+R14
+32
+Z24 !s110 1582730375
+!i10b 1
+Z25 !s108 1582730375.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/ADDER512.vhd|
+Z27 !s107 /home/arash/Desktop/Project/FFT/ADDER512.vhd|
+!i113 1
+R19
+R20
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 8 adder512 0 22 h7iMj?eQ[ANTR_3Z4j:Sf2
+l39
+L18
+V?_Y=SC8D0gH==L5dh[>ng3
+!s100 eO5<neNm>OjXC6<DVWNN]2
+R14
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R19
+R20
+Eaddtest
+Z28 w1582728310
+R11
+Z29 8/home/arash/Desktop/Project/FFT/addtest.vhd
+Z30 F/home/arash/Desktop/Project/FFT/addtest.vhd
+l0
+L1
+V>gSM8ESndTZRW84RD1f?E2
+!s100 UU=:lBl73ZPU[ABcRTXnL0
+R14
+32
+R24
+!i10b 1
+R25
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/addtest.vhd|
+Z32 !s107 /home/arash/Desktop/Project/FFT/addtest.vhd|
+!i113 1
+R19
+R20
+Aaa
+Z33 DEx4 work 7 addtest 0 22 >gSM8ESndTZRW84RD1f?E2
+l17
+L4
+Z34 VEU9>dOk768CakQWNFVHPk2
+Z35 !s100 IhF]z2BQ3><^HRf`ZTIZQ0
+R14
+32
+R24
+!i10b 1
+R25
+R31
+R32
+!i113 1
+R19
+R20
+Passests
+R1
+DBx4 ieee 17 float_generic_pkg 4 body 22 WN9:YIQ]Fc2f32ANi3<g`0
+R3
+DBx4 ieee 17 fixed_generic_pkg 4 body 22 1OB>@cS:GBkHTK^gK1Nzm1
+R5
+R6
+R7
+R9
+R10
+w1582469791
+R11
+8/home/arash/Desktop/Project/FFT/assests.vhd
+F/home/arash/Desktop/Project/FFT/assests.vhd
+l0
+L11
+VBXiihXX[72`2dlHZ<WR9F1
+!s100 lCa5DcZjP0]n2g>F@j1K[3
+R14
+32
+R15
+!i10b 1
+R16
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/assests.vhd|
+!s107 /home/arash/Desktop/Project/FFT/assests.vhd|
+!i113 1
+R19
+R20
+Ebutterfly
+Z36 w1581851461
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z37 8/home/arash/Desktop/Project/FFT/butterfly.vhd
+Z38 F/home/arash/Desktop/Project/FFT/butterfly.vhd
+l0
+L6
+Vz2j2<]VQcVD13^`lIMdO80
+!s100 cWlCoBleocMZ_P5fbAB2C2
+R14
+32
+Z39 !s110 1581855851
+!i10b 1
+Z40 !s108 1581855851.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/butterfly.vhd|
+Z42 !s107 /home/arash/Desktop/Project/FFT/butterfly.vhd|
+!i113 1
+R19
+R20
+Abutterflybody
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 9 butterfly 0 22 z2j2<]VQcVD13^`lIMdO80
+l24
+L14
+VeaQ7V42>o0W@5N:3aZBTR0
+!s100 8Ed]48Z9MQg`fe47K>Ee12
+R14
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R19
+R20
+Edft
+Z43 w1582729695
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z44 8/home/arash/Desktop/Project/FFT/DFT.vhd
+Z45 F/home/arash/Desktop/Project/FFT/DFT.vhd
+l0
+L9
+VPJ1i@lF55Yb4PQ5439YA70
+!s100 0?OFWJGkjf7zO02UccZHR2
+R14
+32
+R24
+!i10b 1
+R25
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/DFT.vhd|
+Z47 !s107 /home/arash/Desktop/Project/FFT/DFT.vhd|
+!i113 1
+R19
+R20
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 3 dft 0 22 PJ1i@lF55Yb4PQ5439YA70
+l40
+L23
+VSF4=ZO7C07jbH9FFd1@M>1
+!s100 9Z_kA8:<_RH1i0o@7zd:R3
+R14
+32
+R24
+!i10b 1
+R25
+R46
+R47
+!i113 1
+R19
+R20
+Abehavioral
+DPx4 work 9 math_real 0 22 djinOFMooozoSd_OUfS_82
+R5
+R4
+R6
+R2
+R3
+R7
+DPx4 work 7 assests 0 22 f<QZDz;?N@Im0M[gF59?T0
+R9
+R10
+DEx4 work 3 dft 0 22 i?5?aGLN[I]SISRM>J1<@1
+l20
+L19
+V^De<`dclKM5YLhLToD_B;3
+!s100 MkHAX;]fLUEQgGAIL1DBX3
+R14
+32
+!s110 1581848483
+!i10b 1
+!s108 1581848483.000000
+R46
+R47
+!i113 1
+R19
+R20
+w1581845745
+Edft_cel
+Z48 w1582715248
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z49 8/home/arash/Desktop/Project/FFT/DFT_CELL.vhd
+Z50 F/home/arash/Desktop/Project/FFT/DFT_CELL.vhd
+l0
+L12
+V>lm^[O8jjEIJ__Af>h;9M0
+!s100 EDaTX]eDKDfIVN8mOgZX@2
+R14
+32
+Z51 !s110 1582716458
+!i10b 1
+Z52 !s108 1582716458.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/DFT_CELL.vhd|
+Z54 !s107 /home/arash/Desktop/Project/FFT/DFT_CELL.vhd|
+!i113 1
+R19
+R20
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 7 dft_cel 0 22 >lm^[O8jjEIJ__Af>h;9M0
+l57
+L26
+VcNJX5`aP<0BAGdi6Z;7eU3
+!s100 fCNZVA:PPgI3S5SjkZ0?B2
+R14
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R19
+R20
+Edft_cell
+Z55 w1582729508
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R49
+R50
+l0
+L12
+V[0Z_VWRKI7B_14CRgBhUL0
+!s100 H9^SChGAaoAbcQ^mGDJjM1
+R14
+32
+R24
+!i10b 1
+R16
+R53
+R54
+!i113 1
+R19
+R20
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 8 dft_cell 0 22 [0Z_VWRKI7B_14CRgBhUL0
+l57
+L26
+V6Z;7kL]U172E0VOe5UODY3
+!s100 3aAQSeJhNjS]Z0:8];J5=0
+R14
+32
+R24
+!i10b 1
+R16
+R53
+R54
+!i113 1
+R19
+R20
+Efft
+Z56 w1581854283
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R44
+R45
+l0
+L13
+VfMa]nH5;gk_4SYF2b]HT@0
+!s100 ?X;c<gd3CAT3G^_lOIh3g3
+R14
+32
+R39
+!i10b 1
+R40
+R46
+R47
+!i113 1
+R19
+R20
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 3 fft 0 22 fMa]nH5;gk_4SYF2b]HT@0
+l25
+L24
+VVg5TagLOmEh3?EBQfMY8:3
+!s100 BVUXFHL]`L?51F>b3WHER3
+R14
+32
+R39
+!i10b 1
+R40
+R46
+R47
+!i113 1
+R19
+R20
+Pmath_real
+w1581845773
+R11
+8/home/arash/Desktop/Project/FFT/MATH_REAL.vhd
+F/home/arash/Desktop/Project/FFT/MATH_REAL.vhd
+l0
+L45
+VdjinOFMooozoSd_OUfS_82
+!s100 `4NA01nK0:D@mg1ghZY<J2
+R14
+32
+b1
+!s110 1581851563
+!i10b 1
+!s108 1581851563.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/MATH_REAL.vhd|
+!s107 /home/arash/Desktop/Project/FFT/MATH_REAL.vhd|
+!i113 1
+R19
+R20
+Emultiplier
+Z57 w1582564289
+R11
+Z58 8/home/arash/Desktop/Project/FFT/MULTIPLIER.vhd
+Z59 F/home/arash/Desktop/Project/FFT/MULTIPLIER.vhd
+l0
+L1
+VoHfYUD6?G=oi9FkT_UNPo2
+!s100 9NH9omgYWf8E:O?hQh=bj1
+R14
+32
+R15
+!i10b 1
+R16
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/MULTIPLIER.vhd|
+Z61 !s107 /home/arash/Desktop/Project/FFT/MULTIPLIER.vhd|
+!i113 1
+R19
+R20
+Aarch
+DEx4 work 10 multiplier 0 22 oHfYUD6?G=oi9FkT_UNPo2
+l13
+L12
+VWj9c9SGdnNEkCjNDQLnjE0
+!s100 :AC0[?CWaa5oTSg<`L0_c3
+R14
+32
+R15
+!i10b 1
+R16
+R60
+R61
+!i113 1
+R19
+R20
+Enadder
+Z62 w1582712763
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z63 8/home/arash/Desktop/Project/FFT/NADDER.vhd
+Z64 F/home/arash/Desktop/Project/FFT/NADDER.vhd
+l0
+L8
+VgjV@lmiSM0@NRJ?OFHhZi1
+!s100 0i7PF85KmJKb`Q1decXB71
+R14
+32
+R24
+!i10b 1
+R25
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/NADDER.vhd|
+Z66 !s107 /home/arash/Desktop/Project/FFT/NADDER.vhd|
+!i113 1
+R19
+R20
+Aarch
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 6 nadder 0 22 gjV@lmiSM0@NRJ?OFHhZi1
+l32
+L18
+VzX;a4^QLFka_dHFXi60_P1
+!s100 O8GVPd15RQ1ailOa>>EY40
+R14
+32
+R24
+!i10b 1
+R25
+R65
+R66
+!i113 1
+R19
+R20
+Eregisterfile
+Z67 w1581845749
+R9
+R10
+R11
+Z68 8/home/arash/Desktop/Project/FFT/registerfile.vhd
+Z69 F/home/arash/Desktop/Project/FFT/registerfile.vhd
+l0
+L4
+V^9KYWhG`>QBQZOl5Q]S:a3
+!s100 ao0oHBn?cXLoWBPQ_d36X0
+R14
+32
+R39
+!i10b 1
+R40
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/registerfile.vhd|
+Z71 !s107 /home/arash/Desktop/Project/FFT/registerfile.vhd|
+!i113 1
+R19
+R20
+Aregisterfile_arch
+R9
+R10
+DEx4 work 12 registerfile 0 22 ^9KYWhG`>QBQZOl5Q]S:a3
+l14
+L13
+Vfce>NJCMBi_RdgUI9gJSz0
+!s100 M_0g;EEcbOeD_TaBlX`PH2
+R14
+32
+R39
+!i10b 1
+R40
+R70
+R71
+!i113 1
+R19
+R20
+Eromgen
+Z72 w1582717075
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z73 8/home/arash/Desktop/Project/FFT/ROMGEN.vhd
+Z74 F/home/arash/Desktop/Project/FFT/ROMGEN.vhd
+l0
+L14
+VC??]>:?JgzhRL`Xz>]FE30
+!s100 9`@hRj<^Ie=^l;=m>DB=d3
+R14
+32
+R24
+!i10b 1
+R25
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/ROMGEN.vhd|
+Z76 !s107 /home/arash/Desktop/Project/FFT/ROMGEN.vhd|
+!i113 1
+R19
+R20
+Areadffile
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 6 romgen 0 22 C??]>:?JgzhRL`Xz>]FE30
+l26
+L22
+VSfE4QgGgcFP_azaK4FX6D1
+!s100 EjSL9YRkhJ0j?ae6W^P[13
+R14
+32
+R24
+!i10b 1
+R25
+R75
+R76
+!i113 1
+R19
+R20
+Etestbench
+Z77 w1582730362
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z78 8/home/arash/Desktop/Project/FFT/testbench.vhd
+Z79 F/home/arash/Desktop/Project/FFT/testbench.vhd
+l0
+L12
+VQo00TMBNH;?maKfQ5Y5jd2
+!s100 gS?BZD0LQ?7:il@8CMek:0
+R14
+32
+R24
+!i10b 1
+R25
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/arash/Desktop/Project/FFT/testbench.vhd|
+Z81 !s107 /home/arash/Desktop/Project/FFT/testbench.vhd|
+!i113 1
+R19
+R20
+Atb
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 9 testbench 0 22 Qo00TMBNH;?maKfQ5Y5jd2
+l44
+L15
+VR7dN3dKiK:OSNg]EbK^=C3
+!s100 PcWHZ<ngzTn:IFd0F1`Nb0
+R14
+32
+R24
+!i10b 1
+R25
+R80
+R81
+!i113 1
+R19
+R20

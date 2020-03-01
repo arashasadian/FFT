@@ -1,0 +1,164 @@
+/home/arash/Desktop/Project/FFT/DFT_CELL.vhd {2 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/DFT_CELL.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity DFT_CELL
+-- Compiling architecture arch of DFT_CELL
+** Warning: /home/arash/Desktop/Project/FFT/DFT_CELL.vhd(67): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+
+} {} {}} /home/arash/Desktop/Project/FFT/addtest.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/addtest.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity addtest
+-- Compiling architecture aa of addtest
+
+} {} {}} /home/arash/Desktop/Project/FFT/DFT.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/DFT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity DFT
+-- Compiling architecture arch of DFT
+
+} {} {}} /home/arash/Desktop/Project/FFT/NADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/NADDER.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity NADDER
+-- Compiling architecture arch of NADDER
+
+} {} {}} /home/arash/Desktop/Project/FFT/assests.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/assests.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Compiling package assests
+
+} {} {}} /home/arash/Desktop/Project/FFT/MULTIPLIER.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/MULTIPLIER.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity MULTIPLIER
+-- Compiling architecture arch of MULTIPLIER
+
+} {} {}} /home/arash/Desktop/Project/FFT/testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity testbench
+-- Compiling architecture tb of testbench
+
+} {} {}} /home/arash/Desktop/Project/FFT/ADDER512.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/ADDER512.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity ADDER512
+-- Compiling architecture arch of ADDER512
+
+} {} {}} /home/arash/Desktop/Project/FFT/ADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/ADDER.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity ADDER
+-- Compiling architecture arch of ADDER
+
+} {} {}} /home/arash/Desktop/Project/FFT/ROMGEN.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/arash/Desktop/Project/FFT/ROMGEN.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package fixed_float_types
+-- Loading package instance fixed_pkg
+-- Loading package fixed_generic_pkg
+-- Loading package MATH_REAL
+-- Loading package body fixed_generic_pkg
+-- Loading package instance float_pkg
+-- Loading package float_generic_pkg
+-- Loading package body float_generic_pkg
+-- Loading package std_logic_textio
+-- Loading package assests
+-- Compiling entity ROMGEN
+-- Compiling architecture READFFILE of ROMGEN
+
+} {} {}}
