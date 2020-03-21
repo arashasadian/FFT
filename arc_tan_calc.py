@@ -1,4 +1,4 @@
-from math import atan
+from math import atan, degrees
 
 for i in range (0, 12):
-    print(atan(pow(2, -1 * i)))
+    print(degrees(atan(pow(2, -1 * i))))

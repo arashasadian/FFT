@@ -16,24 +16,24 @@ end entity;
 
 architecture aaa of CORDIC_TEST is
 
-    signal degree, s, c, sh : signed(15 downto 0);
+    signal degree, s, c, sh : signed(31 downto 0);
     signal clk : std_logic := '0';
     
     component CORDIC is
         generic (ITER : integer := 12);
         port(
             clk : in std_logic;
-            degree : in signed(15 downto 0);
-            sin_out, cos_out, shamt :out signed(15 downto 0)
+            degree : in signed(31 downto 0);
+            sin_out, cos_out, shamt :out signed(31 downto 0)
         );
     end component CORDIC;
     begin
     DUT:CORDIC port map(clk, degree, s, c, sh);
     process begin
-        degree <= to_signed(30, 16);
-        wait for 15000 ns;
-        degree <= to_signed(90, 16);
-        wait for 15000 ns;
+        degree <= to_signed(70000, 32);
+        wait for 31000 ns;
+        degree <= to_signed(90000, 32);
+        wait for 31000 ns;
     end process;
     
     clk <= not(clk) after 1500 ns;

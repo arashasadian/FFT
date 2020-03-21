@@ -13,6 +13,10 @@ def cordic_algo(degree):
     if z > 0:
         s = 1
     for i in range(0, 12):
+        print(x_n * (10 ** 4))
+        print(y_n * (10 ** 4))
+        print(z * (10 ** 4))
+        print("=============================================")
         if z >= 0:
             s = 1
         else:
@@ -23,6 +27,7 @@ def cordic_algo(degree):
         x = x_n
         y = y_n
         z = z - s * atan(2 ** (-1 * i))
+        
     print("cos {:d} = {:5f}".format(degree, x_n))
     print("sin {:d} = {:5f}".format(degree, y_n))
 
